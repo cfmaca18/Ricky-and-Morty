@@ -1,0 +1,16 @@
+{
+    "nombre": "Juan",
+    "edad": 20,
+    "gustos": [
+        "programacion",
+        "videojuegos",
+        "cine"
+    ],
+    "direccion": {
+        "calle": "Calle falsa 123",
+        "ciudad": "Madrid",
+        "pais": "España"
+    },
+    "casado": false,
+    "estudios": null
+}
